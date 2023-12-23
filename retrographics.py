@@ -8,7 +8,7 @@ except ImportError:
 
 def parse_arguments():
     parser = argparse.ArgumentParser(
-        description="Convert an image into a retro-style PNG."
+        description="Convert an image into a retro-style PNG. See README.md."
     )
 
     # TODO: one cell color must be first entry of master palette

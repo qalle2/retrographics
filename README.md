@@ -1,5 +1,5 @@
 # retrographics
-Reduce the number of colors in an image and add attribute clash for a retro effect.
+A command-line program that reduces the number of colors in an image and adds attribute clash to it for a retro effect. Requires Python and the [Pillow module](https://python-pillow.org).
 
 Some of the example images are from *Doom* and *Commander Keen: Secret of the Oracle* by id Software. The license of this project doesn't apply to them.
 
