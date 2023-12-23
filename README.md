@@ -25,6 +25,7 @@ Table of contents:
 
 ## Examples
 *Doom* title screen &ndash; original, 3-bit RGB palette without attribute clash, 3-bit RGB palette with no more than 2 colors in each 8&times;8-pixel cell:
+
 ![original](test-in/doom.png)
 ![8 colors](test-out/doom-8,8.png)
 ![8 colors and attribute clash](test-out/doom-8,2.png)
